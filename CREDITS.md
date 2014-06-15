@@ -1,10 +1,10 @@
 Art
----
+===
 
 Landscape tiles
 ---------------
 
- img/mountain_landscape_23.png
+    img/mountain_landscape_23.png
 
 CC-BY 3.0
 
