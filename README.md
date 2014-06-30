@@ -1,5 +1,5 @@
-Gambit
-======
+Arc Gambit
+==========
 
 What is it?
 -----------
